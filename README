@@ -1,0 +1,13 @@
+Python Class to create fractals
+
+Dependencies: PIL
+
+To create the default fractal (a Julia Set), run:
+
+python test.py
+
+---
+Todo:
+
+Doc strings
+Speed things up!
